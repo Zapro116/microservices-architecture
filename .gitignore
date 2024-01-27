@@ -1,8 +1,11 @@
 .vscode
 
+package-lock.json
+
 # Client
 
 client/node_modules
+client/package-lock.json
 # testing
 client/coverage
 
@@ -23,19 +26,24 @@ client/yarn-error.log*
 # Comments
 
 comments/node_modules
+comments/package-lock.json
 
 # event-bus
 
 event-bus/node_modules
+event-bus/package-lock.json
 
 # moderation
 
 moderation/node_modules
+moderation/package-lock.json
 
 # posts
 
 posts/node_modules
+posts/package-lock.json
 
 # query
 
 query/node_modules
+query/package-lock.json
